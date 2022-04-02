@@ -1,3 +1,6 @@
 *.fs
 *.json
 *.pack
+
+__pycache__/
+*.lock

@@ -39,3 +39,5 @@ make flash
 2. [gowin official](http://www.gowinsemi.com.cn/faq.aspx)
 
 3. [TangNano Doc](https://tangnano.sipeed.com/zh/)
+
+4. [Amaranth HDL](https://amaranth-lang.org/docs/amaranth/latest/cover.html)
